@@ -1,4 +1,4 @@
-# European-Transmission-and-Market-Model
+# European-Transmission-and-Market-Models
 Detailed model of the European 400 kV transmission grid and electricity market. The following countries are included in the model: Albania, Austria, Bosnia and Herzegovina, Belgium, Bulgaria, Switzerland, Czech Republic, Germany, Denmark, Spain, Finland, France, Greece, Croatia, Hungary, Ireland, Italy, Luxembourg, Montenegro, Republic of North Macedonia, the Netherlands, Norway, Poland, Portugal, Romania, Serbia, Sweden, Slovenia, Slovakia and the United Kingdom.
 
 This document contains some informations about the files in the repository "European-Transmission-and-Market-Model".
