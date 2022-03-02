@@ -19,3 +19,6 @@ Thermal and hydropower generators, loads, wind farms, solar PV stations are loca
 ** MARKET_MODEL.xlsx\
 This file contains all the information about bidding zones and market corridors.
 Thermal and hydropower generators, loads, wind farms, solar PV stations are located in the corresponding bidding zones.
+
+** PROFILES.xlsx\
+This file contains RES generation and demand profiles (hourly resolution).
