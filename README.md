@@ -9,6 +9,7 @@ List of files:
 (excel files - folder 'Data')
 - GRID_MODEL.xlsx
 - MARKET_MODEL.xlsx
+- PROFILES.xlsx
 
 *-------------------------------------------------------------------------------------------------------*
 
