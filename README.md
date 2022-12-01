@@ -26,7 +26,9 @@ This file contains RES generation and demand profiles (hourly resolution).
 
 *-------------------------------------------------------------------------------------------------------*\
 CITATION
+
 If you use this model for published work, please cite the following paper: 
 Andrea Tosatto, Xavier Martínez Beseler, Jacob Østergaard, Pierre Pinson, Spyros Chatzivasileiadis, North Sea Energy Islands: Impact on national markets and grids, Energy Policy, Vol. 167, 112907, 2022. https://doi.org/10.1016/j.enpol.2022.112907.
+
 *-------------------------------------------------------------------------------------------------------*
 
